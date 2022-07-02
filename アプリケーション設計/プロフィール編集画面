@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T09:00:57.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.4" etag="0Dqbf03RYDJytBWXHkXM" type="github"><diagram id="a9uBAPO0W77o3e4cn0tm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-02T09:06:56.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xER2tHBfkTYB9afniA_7" version="20.0.4" type="github">
+  <diagram id="a9uBAPO0W77o3e4cn0tm" name="Page-1">
+    <mxGraphModel dx="946" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="30" width="600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry width="600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-3" value="ヘッダー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-4" value="フッター" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry y="330" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry y="35" width="600" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-6" value="ニックネーム" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="150" y="80" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-8" value="プロフィール" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="139.5" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-10" value="自己紹介" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="150" y="170" width="299" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-12" value="プロフィール画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="150" y="110" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-27" value="画像をアップロード" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="220" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-28" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="239.5" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku7xcfl5oV9FUOMGpCaV-29" value="Twitter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ku7xcfl5oV9FUOMGpCaV-1">
+          <mxGeometry x="150" y="240" width="300" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
