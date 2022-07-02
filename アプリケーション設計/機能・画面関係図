@@ -1,197 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T01:23:10.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="B2bUhezX35VuHEGlzJl-" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T01:26:52.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jndp--dKu-y6Qyd4HDP2" version="20.0.4" type="github">
   <diagram id="tyOoz74A3mV0risvmOZR" name="Page-1">
-    <mxGraphModel dx="2719" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5557" dy="3934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h9B-y4Ame4aBK34kkqlh-1" value="サイト訪問者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="40" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-2" value="ログインする" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="324" y="210" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-11" value="ユーザー" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="244" y="310" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-15" value="サービス内容を確かめたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="44" y="130" width="170" height="40" as="geometry" />
+          <mxGeometry x="44" y="130" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-16" value="サービスを利用したい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="244" y="130" width="170" height="40" as="geometry" />
+          <mxGeometry x="244" y="130" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-17" value="サービスを利用しない" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="444" y="130" width="170" height="40" as="geometry" />
+          <mxGeometry x="444" y="130" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-18" value="新規登録する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="210" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-19" value="期待すること" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="30" width="100" height="40" as="geometry" />
+          <mxGeometry x="-310" y="30" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-22" value="促す行為" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="90" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-23" value="状態" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="170" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-25" value="目標を立てたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="408" width="170" height="40" as="geometry" />
+          <mxGeometry x="-80" y="408" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-26" value="計画を立てたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="410" width="170" height="40" as="geometry" />
+          <mxGeometry x="175" y="410" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-27" value="記録をとりたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="170" height="40" as="geometry" />
+          <mxGeometry x="390" y="410" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-28" value="振り返りたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="170" height="40" as="geometry" />
+          <mxGeometry x="600" y="410" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-29" value="対策をとりたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="410" width="170" height="40" as="geometry" />
+          <mxGeometry x="790" y="410" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-31" value="ゴールを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="770" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-32" value="スモールゴールを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="860" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-33" value="タスクを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="770" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-34" value="カレンダーの予定にタスクを割り当てる" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="860" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-35" value="カレンダーの実際にタスクを割り当てる" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="770" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-37" value="学んだことを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="860" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-39" value="できるようになったことを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="940" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-40" value="進んだことを設定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="506" y="1190" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-95" y="480" width="200" height="230" as="geometry" />
+          <mxGeometry x="-95" y="480" width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-54" value="短期的な目標を立てたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-57">
-          <mxGeometry x="15" y="105" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="105" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-55" value="目標に期日を設けたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-57">
-          <mxGeometry x="15" y="170" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="170" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-56" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-57">
-          <mxGeometry width="200" height="230" as="geometry" />
+          <mxGeometry width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-53" value="長期的な目標を立てたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-56">
-          <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="40" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="480" width="200" height="230" as="geometry" />
+          <mxGeometry x="160" y="480" width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-62" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-59">
-          <mxGeometry width="200" height="230" as="geometry" />
+          <mxGeometry width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-63" value="何を、いつやるのか決めたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-62">
-          <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="40" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-68" value="いつまでにやるのか決めたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-62">
-          <mxGeometry x="15" y="110" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="110" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-66" value="背景・原因" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=1;dashPattern=1 4;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="280" width="170" height="40" as="geometry" />
+          <mxGeometry x="-345" y="280" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-69" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="200" height="230" as="geometry" />
+          <mxGeometry x="400" y="480" width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-70" value="何を、どれくらい勉強したのか記録したい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-69">
-          <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="40" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-71" value="何がどれくらい完了したのか記録したい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-69">
-          <mxGeometry x="15" y="110" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="110" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-73" value="何を学んだのか記録したい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-69">
-          <mxGeometry x="15" y="170" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="170" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-74" value="提案" style="shape=note;size=20;whiteSpace=wrap;html=1;rounded=0;shadow=1;dashed=1;dashPattern=1 4;sketch=1;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="360" width="100" height="100" as="geometry" />
+          <mxGeometry x="-310" y="360" width="101" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-79" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-320" y="490" width="120" height="120" as="geometry" />
+          <mxGeometry x="-320" y="490" width="121" height="120" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-82" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-79">
-          <mxGeometry width="120" height="120" as="geometry" />
+          <mxGeometry width="121" height="120" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-98" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="627" y="480" width="200" height="230" as="geometry" />
+          <mxGeometry x="627" y="480" width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-99" value="何を、どれくらい勉強したのか知りたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-98">
-          <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="40" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-100" value="何がどれくらい完了したのかしりたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-98">
-          <mxGeometry x="15" y="110" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="110" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-101" value="これまで何を学んできたのか" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-98">
-          <mxGeometry x="15" y="170" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="170" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-102" value="これまでの頑張りを知り、モチベーションを高めたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=1;dashPattern=1 4;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="810" y="770" width="170" height="40" as="geometry" />
+          <mxGeometry x="810" y="770" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-109" value="最終目的" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;dashed=1;dashPattern=1 4;sketch=1;opacity=60;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="10" width="120" height="80" as="geometry" />
+          <mxGeometry x="-490" y="10" width="121" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-110" value="ユーザーが掲げたゴールが&lt;br&gt;達成されること" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;dashed=1;dashPattern=1 4;sketch=1;opacity=60;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="30" width="170" height="100" as="geometry" />
+          <mxGeometry x="1070" y="30" width="171" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-111" value="振り返りは、厳しい現実・現状を知ることも必要" style="shape=note;size=20;whiteSpace=wrap;html=1;rounded=0;shadow=1;dashed=1;dashPattern=1 4;sketch=1;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="827" y="840" width="100" height="100" as="geometry" />
+          <mxGeometry x="827" y="840" width="101" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-112" value="フィードバックを得る" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="770" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-113" value="モニタリングする" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="850" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-117" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="950" width="200" height="280" as="geometry" />
+          <mxGeometry x="630" y="950" width="201" height="280" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-92" value="進捗を表示する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-117">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-93" value="成長を可視化する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-117">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="120" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-36" value="達成率を表示する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-117">
-          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-129" value="スモールゴールを変更する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="770" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-130" value="タスクを変更する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="860" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-131" value="ゴールを変更する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="950" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-132" value="予定を変更する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="1040" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-133" value="実際を変更する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="1120" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-134" value="マインドルールを変える" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="1200" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-135" value="細分化" style="swimlane;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="480" width="200" height="230" as="geometry" />
+          <mxGeometry x="870" y="480" width="201" height="230" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-136" value="これまでを振り返り、明日はよりよくなりたい" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;rounded=0;shadow=0;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-135">
-          <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="15" y="40" width="171" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-690" y="-2.5" width="140" height="1442.5" as="geometry" />
+          <mxGeometry x="-690" y="-2.5" width="141" height="1442.5" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-144" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="h9B-y4Ame4aBK34kkqlh-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,13 +200,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-145" value="時間軸" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-143">
-          <mxGeometry x="10" y="600.1642335766423" width="90" height="147.4087591240876" as="geometry" />
+          <mxGeometry x="10" y="600.1642335766423" width="91" height="147.4087591240876" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-146" value="現在" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-143">
-          <mxGeometry x="10" width="90" height="147.4087591240876" as="geometry" />
+          <mxGeometry x="10" width="91" height="147.4087591240876" as="geometry" />
         </mxCell>
         <mxCell id="h9B-y4Ame4aBK34kkqlh-147" value="未来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;" vertex="1" parent="h9B-y4Ame4aBK34kkqlh-143">
-          <mxGeometry y="1295.0912408759125" width="110" height="147.4087591240876" as="geometry" />
+          <mxGeometry y="1295.0912408759125" width="111" height="147.4087591240876" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
