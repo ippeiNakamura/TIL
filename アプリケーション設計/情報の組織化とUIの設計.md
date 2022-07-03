@@ -197,6 +197,9 @@
 + 編集・詳細画面は一つになっているケースが多いことがわかった。
 + 既存サービスの各画面を参考にすることは、自身のサービスで抜け落ちている機能・入力欄などが発見でき、大変勉強になることがわかった
 + 使いやすさというのは、ある程度体系化されていて、模倣しやすいことがわかった
++ 現在の技術レベルでどう実現するか検討が付かないような画面もあったが、実現性は一旦おいといて、理想系を書いた。
++ 例えば、ゴール、スモールゴール、タスクはテーブルで表現することも可能だったが、ツリー構造にしたいというこだわりがあった。
++ このこだわりが原動力となって、勉強するモチベーションになるため。
 
 #### ログイン画面
 <img width="1440" alt="スクリーンショット 2022-07-02 18 13 20" src="https://user-images.githubusercontent.com/74813444/176994362-97903783-69d1-4ce5-b0cf-fd76fa214d1b.png">
@@ -217,5 +220,23 @@
 #### スモールゴール
 <img width="1440" alt="スクリーンショット 2022-07-03 13 31 45" src="https://user-images.githubusercontent.com/74813444/177024688-2379ac02-8ac1-45dc-a423-60d430ca5b00.png">
 
+#### タスク
+<img width="1440" alt="スクリーンショット 2022-07-03 18 13 19" src="https://user-images.githubusercontent.com/74813444/177033158-563dff67-7703-4c1e-b24b-f964d8e9e908.png">
+
+#### 予定を割り当てる
+<img width="1440" alt="スクリーンショット 2022-07-03 18 29 11" src="https://user-images.githubusercontent.com/74813444/177033742-48ed541a-45d4-4f6d-b819-fd303083d108.png">
+
+#### 実際・成長の設定を割り当てる
+<img width="1440" alt="スクリーンショット 2022-07-03 18 56 11" src="https://user-images.githubusercontent.com/74813444/177034543-efd87a67-77a8-47ab-b028-7bb6e750ef35.png">
+
+#### 進捗を確認する
+<img width="1440" alt="スクリーンショット 2022-07-03 19 14 27" src="https://user-images.githubusercontent.com/74813444/177035176-772c255c-e2cb-41f8-9dbb-cff88a14ff31.png">
+
+#### 達成率を確認する
+<img width="1440" alt="スクリーンショット 2022-07-03 19 34 10" src="https://user-images.githubusercontent.com/74813444/177035754-62b1309f-e401-4a5f-8766-033f0cc1e7d0.png">
+
+#### 成長を実感する
+<img width="1440" alt="スクリーンショット 2022-07-03 20 23 19" src="https://user-images.githubusercontent.com/74813444/177037267-065b05e9-2381-4966-9615-3c097761af20.png">
 
 
+#### 
