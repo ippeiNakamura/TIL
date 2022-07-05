@@ -238,5 +238,7 @@
 #### 成長を実感する
 <img width="1440" alt="スクリーンショット 2022-07-03 20 23 19" src="https://user-images.githubusercontent.com/74813444/177037267-065b05e9-2381-4966-9615-3c097761af20.png">
 
-
-#### 
+#### 進捗を確認する（変更）
++ 改善画面を用意せず、進捗からリンクで飛ぶように変更
+<img width="1440" alt="スクリーンショット 2022-07-05 11 46 20" src="https://user-images.githubusercontent.com/74813444/177239478-03c587cb-74ad-4c8b-bba6-9ccd05315e7e.png">
+z
