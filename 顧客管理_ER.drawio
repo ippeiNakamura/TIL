@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T09:44:32.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="t194C-ClpqN25n_1F7FU" type="github"><diagram id="XR1BBBFYajF82MmcZB6p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-11T01:22:54.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JL0QBT3r8blBeB8FrRfo" version="20.3.0" type="github">
+  <diagram id="XR1BBBFYajF82MmcZB6p" name="ページ1">
+    <mxGraphModel dx="946" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hAtc28yNK987YHoqI2dE-1" value="顧客管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-2" value="+会社名&#xa;+部署名&#xa;+担当者名&#xa;+顧客ランク&#xa;+郵便番号&#xa;+住所&#xa;+電話番号&#xa;+FAX&#xa;+メールアドレス " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="hAtc28yNK987YHoqI2dE-1">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-8" value="問い合わせ管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="100" width="160" height="210" as="geometry">
+            <mxRectangle x="60" y="360" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-9" value="+受付日時&#xa;+問い合わせ種別&#xa;+期限&#xa;+会社名（FK）&#xa;+ご担当者名&#xa;+電話番号&#xa;+顧客ランク&#xa;+郵便番号&#xa;+住所&#xa;+電話番号&#xa;+FAX&#xa;+メールアドレス " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="hAtc28yNK987YHoqI2dE-8">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-15" value="サポートFAQ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-16" value="+レコード番号&#xa;+更新者&#xa;+作成者&#xa;+更新日時&#xa;+作成日時&#xa;+質問&#xa;+関連する質問・リンク&#xa;+添付ファイル&#xa;+公開&#xa;+回答&#xa;+種別&#xa;+該当問い合わせ紐づけキー" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="hAtc28yNK987YHoqI2dE-15">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-20" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=1;rounded=0;fontColor=#97D077;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAtc28yNK987YHoqI2dE-9" target="hAtc28yNK987YHoqI2dE-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-21" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;fontColor=#97D077;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAtc28yNK987YHoqI2dE-16" target="hAtc28yNK987YHoqI2dE-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-23" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;fontColor=#97D077;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAtc28yNK987YHoqI2dE-2" target="hAtc28yNK987YHoqI2dE-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAtc28yNK987YHoqI2dE-24" value="関連レコード" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
